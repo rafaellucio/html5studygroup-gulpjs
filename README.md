@@ -58,7 +58,7 @@ gulp.src('caminho/**/*.css')
 ```
 ##### gulp.dest
 ```js
-gulp.src(globs[,options]);
+gulp.dest(path[,options]);
 ```
 Pode ser canalizado e ele escreverá os arquivos no "path" informado. Re-emite todos os dados passados ​​para ele assim você pode canalizar para várias pastas. As pastas que não existem serão criadas.
 ```js
