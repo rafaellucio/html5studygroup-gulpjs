@@ -1,0 +1,30 @@
+{
+  "name": "html5studygroup-gulpjs",
+  "version": "0.0.1",
+  "description": "HTML5 Study Group Gulpjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaellucio/html5studygroup-gulpjs.git"
+  },
+  "keywords": [
+    "gulpjs",
+    "gulp",
+    "html5",
+    "gdg",
+    "gdg-sp",
+    "html5studygroup"
+  ],
+  "author": "Rafael Antonio Lugio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaellucio/html5studygroup-gulpjs/issues"
+  },
+  "homepage": "https://github.com/rafaellucio/html5studygroup-gulpjs#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
