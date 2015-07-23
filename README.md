@@ -1,6 +1,6 @@
 ## HTML5 Study Group + Gulpjs - streaming build system
 
-* [Link da apresentação HTML5 Study Group](https://slides.com/rafaelantoniolucio/gulpjs/)
+* [Link da apresentação HTML5 Study Group](http://slides.com/rafaelantoniolucio/gulpjs/#/)
 * [Começando com Gulpjs](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
 * [Documentação Gulpjs](https://github.com/gulpjs/gulp/blob/master/docs/API.md)
 * [Lista de receitas](https://github.com/gulpjs/gulp/tree/master/docs/recipes)
