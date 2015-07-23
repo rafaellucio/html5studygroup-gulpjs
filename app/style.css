@@ -1,0 +1,17 @@
+.wrapper {
+	top: 50%;
+	left: 50%;
+	width: 180px;
+	height: 180px;
+	overflow: hidden;
+	margin-top: -90px;
+	margin-left: -90px;
+	position: absolute;
+	border-radius: 20px;
+	transition: border-radius 1s ease-out;
+}
+.wrapper:hover {
+	display: block;
+	max-width: 100%;
+	border-radius: 100%;
+}
