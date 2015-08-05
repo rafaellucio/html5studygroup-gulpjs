@@ -29,7 +29,7 @@ Instalar o gulp em nosso projeto como devDependencies.
 ```sh
 $ npm install --save-dev gulp
 ```
-Criar um arquivos chamage gulpfile.js na pasta raiz do projeto.
+Criar um arquivos chamado gulpfile.js na pasta raiz do projeto.
 ```js
 var gulp = require('gulp');
 gulp.task('default', function () {
